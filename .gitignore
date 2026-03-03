@@ -11,3 +11,6 @@ venv/
 
 # macOS
 .DS_Store
+
+# PyTorch tutorial datasets
+Pytorch Tuto/basics/data/
