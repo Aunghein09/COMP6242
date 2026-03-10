@@ -1,7 +1,7 @@
 numpy==2.4.2
 matplotlib==3.10.8
 pillow==12.1.1
-opencv-python==4.13.0
+opencv-python
 torch==2.10.0
 torchvision==0.25.0
 ipykernel==7.2.0
